@@ -14,7 +14,7 @@ function conf(files){
         for(let f of files){
             let filter = require(f);
             if(filter.disabled) continue;
-            app.filter(new filter());
+            app.filter(filter());
         }
     };
 }
