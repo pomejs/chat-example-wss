@@ -1,0 +1,15 @@
+{
+  "name": "pome-jsclient-websocket",
+  "description": "pome-jsclient-websocket",
+  "keywords": [
+    "pome",
+    "jsclient",
+    "websocket"
+  ],
+  "version": "0.0.1",
+  "main": "lib/pome-client.js",
+  "scripts": [
+    "lib/pome-client.js"
+  ],
+  "repo": "https://github.com/pomenode/pome-jsclient-websocket"
+}

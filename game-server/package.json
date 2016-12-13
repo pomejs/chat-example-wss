@@ -1,0 +1,10 @@
+{
+    "name":"iobox",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "pome":">=2.0.2",
+        "deep-readdir":"^0.2.0"
+    }
+}
+
